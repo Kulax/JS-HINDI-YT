@@ -24,3 +24,4 @@ let state;
 console.log(typeof undefined);// type - undefined
 console.log(typeof null);// type - object
 
+
